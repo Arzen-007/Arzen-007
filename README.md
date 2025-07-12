@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/arzen-007/arzen-007/blob/main/banner.png" alt="banner" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arzen-007/arzen-007/main/assets/banner.png" alt="Cyber Security Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Qammar Abbas Zaidi</h1>
 <h3 align="center">A Passionate Cyber Security Enthusiast from Pakistan 🛡️</h3>
@@ -63,6 +61,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/arzen-007/arzen-007/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ### 🔁 GitHub Activity Snake Animation
 
@@ -95,3 +96,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
