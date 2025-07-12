@@ -1,4 +1,6 @@
-<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/arzen-007/arzen-007/blob/main/banner.png" alt="banner" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/arzen-007/arzen-007/main/assets/banner.png" alt="Cyber Security Banner" />
 </p>
