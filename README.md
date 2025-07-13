@@ -63,37 +63,4 @@
 ---
 <p align="center">
   <img src="https://github.com/arzen-007/arzen-007/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-### 🔁 GitHub Activity Snake Animation
-
-```yml
-# .github/workflows/snake.yml
-
-name: 🐍 Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Every day at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: arzen-007
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+</p> 
