@@ -2,7 +2,6 @@
   <img src="https://github.com/arzen-007/arzen-007/blob/main/banner.png" alt="banner" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Syed Muhammad Qammar Abbas Zaidi</h1>
 <h3 align="center">A Passionate Cyber Security Enthusiast from Pakistan 🛡️</h3>
 
@@ -24,14 +23,71 @@
 ---
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arzen-007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🧠 Languages I Use
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+</p>
+
+---
+
+## 🧪 Kali Linux & Cybersecurity Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40" height="40" /><br/>Wireshark
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/techiediaries/burpsuite-icon/master/icon.png" width="40" height="40" /><br/>Burp Suite
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/k4m4/nmap-logo/master/nmap-logo.png" width="40" height="40" /><br/>Nmap
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/ivancr72/metasploit-logo/master/metasploit-logo.png" width="40" height="40" /><br/>Metasploit
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/adi1090x/files/main/icons/shodan.png" width="40" height="40" /><br/>Shodan
+    </td>
+  </tr>
+</table>
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arzen-007&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzen-007&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
 
 ### 🌐 Connect with Me:
 
@@ -39,33 +95,4 @@
   <a href="https://www.linkedin.com/in/syed-muhammad-qammar-abbas-zaidi-b169b4369/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <!-- Twitter badge commented out -->
-  <!-- <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" />
-  </a> -->
-</p>
-
----
-
-### 🧰 Languages & Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arzen-007&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzen-007&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
