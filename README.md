@@ -23,6 +23,16 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ### 🌐 Connect with Me:
 
 <p align="left">
@@ -59,8 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arzen-007&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzen-007&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
-
----
-<p align="center">
-  <img src="https://github.com/arzen-007/arzen-007/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p> 
